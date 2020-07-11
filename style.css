@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+
+}
+h1{
+    color: blanchedalmond;
+    display: inline-block;
+    width: 140px;
+    background-color: red;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
